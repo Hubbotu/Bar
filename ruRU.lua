@@ -1,4 +1,4 @@
---Translator ZamestoTV
+--Translator ZamestoTV 2.1.9
 local _, addon = ...
 if not addon then return end
 if GetLocale() ~= "ruRU" then return end
